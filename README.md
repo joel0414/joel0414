@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Joel Estrada Santos, and I am currently in my final year at Cal State studying Electrical Engineering.
+
+- 🌱 I’m currently learning Computer Aided Design (CAD)
+
 
 <!--
 **joel0414/joel0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
