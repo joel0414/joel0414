@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Joel Estrada Santos, and I am currently in my final year at Cal State studying Electrical Engineering.
+My name is Joel Estrada Santos, and I am currently in my final year at Cal State LA studying Electrical Engineering.
 
 - 🌱 I’m currently learning Computer Aided Design (CAD)
 
